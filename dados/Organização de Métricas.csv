@@ -1,0 +1,9 @@
+﻿Métrica,Sigla (Coluna CSV),Descrição
+Número de Comentários,nc,Total de intervenções no PR.
+Tamanho Médio,lc,Média de palavras por comentário.
+Participantes,np,Quantidade de usuários distintos.
+Tempo de Resposta,t_resp,Intervalo até o primeiro feedback.
+Commits Pós-Revisão,c_post,Alterações feitas após os comentários.
+Densidade Crítica,dcrit,Proporção de comentários técnicos/lógicos.
+Rodadas de Revisão,niter,Quantidade de ciclos de feedback.
+Taxa de Aceitação,racc,Se o PR foi aprovado ou rejeitado (0 ou 1).
